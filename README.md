@@ -1,9 +1,6 @@
 ### Nice to meet you 👋
 
 My name is Vinicius Sacardi and I'm currently a student at FIAP.
-
-🌱 There's so much to learn in the tech world and I've been focusing on Python, I'm excited to study many other programming languages in the near future.
-
 <!--
 **viniciussacardi/viniciussacardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
